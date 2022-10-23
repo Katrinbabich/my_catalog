@@ -1,0 +1,24 @@
+.grup {
+    color: white;
+    padding: 1.2rem 2rem;
+    user-select: none;
+    border: none;
+    outline: none;
+    list-style-type: none;
+}
+.grup1:hover{
+    background-color:darkcyan !important;
+}
+.grup1:active{
+}
+.grup1{
+    background-color:#333238 !important;
+    color: white;
+}
+
+
+
+
+
+
+

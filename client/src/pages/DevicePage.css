@@ -1,0 +1,8 @@
+.dobvkorz{
+ background-color: #333238;
+    color:white;
+}
+.dobvkorz:hover{
+    background-color: white;
+    color: black;
+}

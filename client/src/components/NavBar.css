@@ -1,0 +1,30 @@
+.class1{
+    text-decoration: none;
+    color: #fff;
+    font-size: 28px;
+}
+.class1:hover{
+    color: #fff;
+}
+.katalo{
+    color: white;
+    background: 1px;
+    variant: outline-light;
+
+    border: 1px solid #fff;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.katalo:hover{
+    color: #000;
+    background: white;
+}
+.qwe3 {
+    background-color:#333238;
+}
+.logo{
+    size: 64px
+}
+
+
+
